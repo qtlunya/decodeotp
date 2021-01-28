@@ -1,0 +1,9 @@
+# Cache files
+__pycache__/
+*.py[cdo]
+
+# Protocol Buffers compiler output
+*_pb2.py
+
+# pyenv
+.python-version
