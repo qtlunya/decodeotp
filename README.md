@@ -20,4 +20,4 @@ otpauth://totp/ACME%20Inc.:John%20Smith?secret=ABCDEFGHIJKLMNOP&issuer=ACME%20In
 ## License
 [MIT License](LICENSE)
 
-`google_auth.proto` is provided by the [Aegis](https://github.com/alexbakker/Aegis) project. All other files contain original code.
+`google_auth.proto` is provided by the [Aegis](https://github.com/beemdevelopment/Aegis) project. All other files contain original code.
